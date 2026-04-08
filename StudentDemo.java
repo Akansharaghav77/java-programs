@@ -8,8 +8,8 @@ class Demo {
     public static void main(String[] args) {
         Student s = new Student();
 
-        s.rollno = 111;
-        s.name = "Aditi";
+        s.rollno = 112;
+        s.name = "Akansha";
         s.marks = 95;
 
         System.out.println("Roll No: " + s.rollno);
